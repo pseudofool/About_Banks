@@ -17,3 +17,4 @@
   * If no results are found, No results found are send as response.
   * Else search results are iterated and for each result, a table row is added with table data for each field of the banks.
 
+### Time Taken - A day
